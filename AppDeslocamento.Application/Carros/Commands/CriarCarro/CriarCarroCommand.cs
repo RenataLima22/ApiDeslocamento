@@ -12,9 +12,9 @@ namespace AppDeslocamento.Application.Carros.Commands.CriarCarro
     public class CriarCarroCommand : IRequest<Carro>
     {
 
-        public string Placa { get; private set; }
+        public string Placa { get; set; }
 
-        public string Descricao { get; private set; }
+        public string Descricao { get; set; }
 
     }
 
