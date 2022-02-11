@@ -11,9 +11,9 @@ namespace AppDeslocamento.Application.Condutores.Commands.CadastrarCondutor
 {
     public class CadastrarCondutorCommand : IRequest<Condutor>
     {
-        public string Nome { get; private set; }
+        public string Nome { get; set; }
 
-        public string Email { get; private set; }
+        public string Email { get; set; }
     }
 
     public class CadastrarCondutorCommandHandler : IRequestHandler<CadastrarCondutorCommand, Condutor>
