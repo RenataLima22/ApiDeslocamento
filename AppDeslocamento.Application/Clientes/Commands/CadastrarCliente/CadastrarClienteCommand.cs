@@ -11,9 +11,9 @@ namespace AppDeslocamento.Application.Clientes.Commands.CadastrarCliente
 {
     public class CadastrarClienteCommand : IRequest<Cliente>
     {
-        public string Nome { get; private set; }
+        public string Nome { get; set; }
 
-        public string Cpf { get; private set; }
+        public string Cpf { get; set; }
     }
 
     public class CadastrarClienteCommandHandler : IRequestHandler<CadastrarClienteCommand, Cliente>
