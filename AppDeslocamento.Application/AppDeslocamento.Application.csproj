@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MediatR" Version="10.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\AppDeslocamento.Data\AppDeslocamento.Data.csproj" />
+		<ProjectReference Include="..\AppDeslocamento.Domain\AppDeslocamento.Domain.csproj" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\obj\Debug\net6.0\AppDeslocamento.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\obj\Debug\net6.0\AppDeslocamento.Application.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\obj\Debug\net6.0\AppDeslocamento.Application.AssemblyInfo.cs
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\obj\Debug\net6.0\AppDeslocamento.Application.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\obj\Debug\net6.0\AppDeslocamento.Application.csproj.AssemblyReference.cache
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\bin\Debug\net6.0\AppDeslocamento.Application.deps.json
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\bin\Debug\net6.0\AppDeslocamento.Application.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\bin\Debug\net6.0\ref\AppDeslocamento.Application.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\bin\Debug\net6.0\AppDeslocamento.Application.pdb
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\bin\Debug\net6.0\AppDeslocamento.Data.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\bin\Debug\net6.0\AppDeslocamento.Domain.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\bin\Debug\net6.0\AppDeslocamento.Data.pdb
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\bin\Debug\net6.0\AppDeslocamento.Domain.pdb
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\obj\Debug\net6.0\AppDeslocamento.Application.csproj.CopyComplete
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\obj\Debug\net6.0\AppDeslocamento.Application.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\obj\Debug\net6.0\ref\AppDeslocamento.Application.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Application\obj\Debug\net6.0\AppDeslocamento.Application.pdb

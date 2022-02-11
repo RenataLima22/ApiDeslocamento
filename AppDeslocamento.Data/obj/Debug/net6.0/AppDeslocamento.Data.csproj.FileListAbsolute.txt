@@ -1,0 +1,17 @@
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\AppDeslocamento.Data.csproj.AssemblyReference.cache
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\AppDeslocamento.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\AppDeslocamento.Data.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\AppDeslocamento.Data.AssemblyInfo.cs
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\AppDeslocamento.Data.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\bin\Debug\net6.0\AppDeslocamento.Data.deps.json
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\bin\Debug\net6.0\AppDeslocamento.Data.runtimeconfig.json
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\bin\Debug\net6.0\AppDeslocamento.Data.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\bin\Debug\net6.0\ref\AppDeslocamento.Data.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\bin\Debug\net6.0\AppDeslocamento.Data.pdb
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\bin\Debug\net6.0\AppDeslocamento.Domain.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\bin\Debug\net6.0\AppDeslocamento.Domain.pdb
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\AppDeslocamento.Data.csproj.CopyComplete
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\AppDeslocamento.Data.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\ref\AppDeslocamento.Data.dll
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\AppDeslocamento.Data.pdb
+C:\Users\renat\source\repos\Aula 1\AppDeslocamento\AppDeslocamento.Data\obj\Debug\net6.0\AppDeslocamento.Data.genruntimeconfig.cache
